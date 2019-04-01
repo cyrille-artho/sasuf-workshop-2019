@@ -6,8 +6,8 @@
 
 ### Speakers
 
-* Willem Visser (University of Stellenbosch)
-* Cyrille Artho (KTH Royal Institute of Technology)
+* Willem Visser (University of Stellenbosch): Searching Fast and Slow: Fuzzing and Symbolic Execution
+* Cyrille Artho (KTH Royal Institute of Technology): Java Pathfinder and some of its applications
 
 TBC:
 * Bernd Fischer (University of Stellenbosch)
