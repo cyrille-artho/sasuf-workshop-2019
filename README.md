@@ -1,9 +1,10 @@
 # SASUF Workshop 2019
 
 ## Workshop "Making systems trustworthy by model checking and symbolic execution"
-## Tuesday, May 7, University of Stellenbosch
 
-# Speakers
+**Tuesday, May 7, University of Stellenbosch**
+
+### Speakers
 
 * Willem Visser (University of Stellenbosch)
 * Cyrille Artho (KTH Royal Institute of Technology)
