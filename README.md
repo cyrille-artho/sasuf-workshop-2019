@@ -17,6 +17,7 @@ The past few years a number of research groups built tools where they combined f
 <details>
 <summary><b>Cyrille Artho (KTH Royal Institute of Technology): Java Pathfinder and some of its applications</b>
   </summary>
+  Abstract: </br>
   This talk gives an overview of Java Pathfinder and then presents the case study "Verifying Nested Lock Priority Inheritance in RTEMS with Java Pathfinder". That work analyzes a Java model of the priority inheritance protocol for mutual exclusion, as implemented in the RTEMS open-source real-time operating system. We verified this model using Java Pathfinder to detect potential data races, deadlocks, and priority inversions. JPF detected a known bug in the RTEMS implementation, which we modified along with the Java model. Verification of the modified model showed the absence of data races, deadlocks, and established nine protocol-specific correctness properties.
 </details>
 
