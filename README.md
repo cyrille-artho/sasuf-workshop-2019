@@ -36,7 +36,6 @@ The past few years a number of research groups built tools where they combined f
 </details>
 
 <br/>
-<hr/>
 
 ### TBC:
 
