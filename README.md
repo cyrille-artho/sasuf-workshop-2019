@@ -24,10 +24,18 @@ The past few years a number of research groups built tools where they combined f
 <details>
   <summary><font color="red"><b>You!</b></font> Please contact us (click for details)/summary>
   We encourage researchers and students to give a presentation on their own work related to model checking and symbolic execution. Please e-mail <tt>artho</tt> (at) <tt>kth.se</tt> with your name and the title and duration of your presentation to register. Short presentation don't need an abstract.
-  </details>
+</details>
+  
+<details>
+  <summary><b>Moeketsi Raselimo (University of Stellenbosch): An Empirical Comparison of Systematic and Random Grammar-based Fuzzing</b></summary>
+</details>
+  
+   
+<details>
+  <summary><b>Bernd Fischer (University of Stellenbosch): Systematic Generation of Programs with Guaranteed Syntax Errors</b></summary>
+</details>
 
 TBC:
-* Bernd Fischer (University of Stellenbosch)
 * Jaco Geldenhuys (University of Stellenbosch)
 * Nils Timm (University of Pretoria)
 * Stefan Gruner (University of Pretoria)
