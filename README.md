@@ -22,7 +22,7 @@ The past few years a number of research groups built tools where they combined f
 </details>
 
 <details>
-  <summary><b><font color="red">You!</font> Please contact us (click for details)</b></summary>
+  <summary><font color="red"><b>You!</b></font> Please contact us (click for details)/summary>
   We encourage researchers and students to give a presentation on their own work related to model checking and symbolic execution. Please e-mail <tt>artho</tt> (at) <tt>kth.se</tt> with your name and the title and duration of your presentation to register. Short presentation don't need an abstract.
   </details>
 
