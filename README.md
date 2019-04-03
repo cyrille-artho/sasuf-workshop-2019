@@ -35,6 +35,8 @@ The past few years a number of research groups built tools where they combined f
   <summary><b>Bernd Fischer (University of Stellenbosch): Systematic Generation of Programs with Guaranteed Syntax Errors</b></summary>
 </details>
 
+<hr>
+
 ### TBC:
 
 * Jaco Geldenhuys (University of Stellenbosch)
