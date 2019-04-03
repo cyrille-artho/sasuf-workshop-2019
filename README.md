@@ -38,9 +38,6 @@ The past few years a number of research groups built tools where they combined f
 ### TBC:
 
 * Jaco Geldenhuys (University of Stellenbosch)
-
 * Nils Timm (University of Pretoria)
-
 * Stefan Gruner (University of Pretoria)
-
 * Kostis Sagonas (Uppsala University)
