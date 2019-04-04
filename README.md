@@ -38,11 +38,14 @@ The past few years a number of research groups built tools where they combined f
   <summary><b>Bernd Fischer (University of Stellenbosch): Systematic Generation of Programs with Guaranteed Syntax Errors</b></summary>
 </details>
 
+<details>
+  <summary><b>Jaco Geldenhuys (University of Stellenbosch): A day at the beach: From Java PathFinder to COASTAL</b></summary>
+</details>
+
 <br/>
 
 ### TBC:
 
-* Jaco Geldenhuys (University of Stellenbosch)
 * Nils Timm (University of Pretoria)
 * Stefan Gruner (University of Pretoria)
 * Kostis Sagonas (Uppsala University)
