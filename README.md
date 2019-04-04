@@ -5,7 +5,7 @@
 **Tuesday, May 7, University of Stellenbosch**
 
 **We welcome students and researchers to present their projects!**
-Talks between 3 and 25 minutes are welcome. Slides are not required for short talks.
+Talks between 3 and 30 minutes are welcome. No slides are required for short talks.
 
 ### Speakers
 
