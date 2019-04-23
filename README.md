@@ -32,20 +32,59 @@ The past few years a number of research groups built tools where they combined f
 <details>
   <summary><b>Moeketsi Raselimo (University of Stellenbosch): An Empirical Comparison of Systematic and Random Grammar-based Fuzzing</b></summary>
 </details>
-  
    
 <details>
   <summary><b>Bernd Fischer (University of Stellenbosch): Systematic Generation of Programs with Guaranteed Syntax Errors</b></summary>
 </details>
 
 <details>
+  <summary><b>Kostis Sagonas (Uppsala University): An Overview of Recent Progress in Stateless Model Checking</b></summary>
+Abstract: </br>
+A successful technique for finding concurrency bugs (i.e., defects that
+arise only under some thread schedulings) and for
+verifying their absence is stateless model checking (SMC).  Given a
+terminating program, which may be annotated with assertions, SMC
+systematically explores the set of all thread schedulings that are
+possible during runs of this program. A special runtime scheduler drives
+the SMC exploration by making decisions on scheduling whenever such
+choices may affect the interaction between threads. Given enough time,
+the exploration covers all possible executions and detects any
+unexpected program results, program crashes, or assertion violations.
+The technique is entirely automatic, has no false positives, does not
+consume excessive memory, and can quickly reproduce the concurrency bugs
+it detects.  SMC faces the problem that the number of possible thread
+schedulings grows exponentially with the length of program execution,
+and must therefore be equipped with techniques to reduce the number of
+explored executions. This talk will overview algorithms and tools for
+stateless model checking, focusing on recent progress in algorithms for
+dynamic partial order reduction (DPOR), both under Sequential
+Consistency and Weak Memory Models. 
+</details>
+
+<details>
+  <summary><b>Kostis Sagonas (Uppsala University): Concolic Testing of Higher-order Functional Languages</b></summary>
+Abstract: </br>
+Concolic testing is a fully automatic software testing technique that
+combines concrete and symbolic execution of a program unit in an attempt
+to explore all the code paths in this unit or at least explore all its
+paths up to a depth bound. In this talk, we will describe how concolic
+testing can be applicable to high-level languages in general and to
+functional programming languages in particular. For such languages, the
+concolic engine needs to efficiently support pattern matching, recursive
+data types such as lists, recursion and higher-order functions. We will
+also briefly talk about the engineering effort that concolic testing
+tools require, in particular in interfacing with SMT solvers.
+<br>
+The talk will also include a demo of CutEr (as in “more cute”), a
+concolic testing tool for Erlang, and will briefly report on some of the
+bugs in the implementation of Erlang/OTP that CutEr has discovered and
+the coverage that it manages to achieve. 
+</details>
+
+<details>
   <summary><b>Jaco Geldenhuys (University of Stellenbosch): A day at the beach: From Java PathFinder to COASTAL</b></summary>
 </details>
 
-<br/>
-
-### TBC:
-
-* Nils Timm (University of Pretoria)
-* Stefan Gruner (University of Pretoria)
-* Kostis Sagonas (Uppsala University)
+<details>
+  <summary><b>Stefan Gruner and Nils Timm (University of Pretoria): Multi-agent systems</b></summary>
+</details>
