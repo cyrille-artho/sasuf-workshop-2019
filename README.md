@@ -4,6 +4,10 @@
 
 **Tuesday, May 7, University of Stellenbosch**
 
+**Committee Room A521, 5th floor, [Main Engineering Building](http://www.cs.sun.ac.za/contact/)**
+
+[Use Google Maps for directions.](https://www.google.com/maps?ll=-33.929752,18.865683&z=16&t=m&hl=en&gl=US&mapclient=embed&q=33%C2%B055%2746.6%22S+18%C2%B051%2756.2%22E+-33.929597,+18.865600@-33.9295972,18.8656)
+
 **We welcome students and researchers to present their projects!**
 Talks between 3 and 30 minutes are welcome. No slides are required for short talks.
 
