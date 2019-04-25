@@ -92,3 +92,11 @@ the coverage that it manages to achieve.
 <details>
   <summary><b>Stefan Gruner and Nils Timm (University of Pretoria): Multi-agent systems</b></summary>
 </details>
+   
+<details>
+  <summary><b>Jan Taljaard (University of Stellenbosch): SMT Result Caching for Symbolic Execution</b></summary>
+</details>
+ 
+<details>
+  <summary><b>Phillip van Heerden (University of Stellenbosch): Symbolic Automata Learning</b></summary>
+</details>
