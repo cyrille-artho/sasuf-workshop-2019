@@ -10,24 +10,24 @@
 
 ### Schedule
 
-Time | Topic
---- | ---
-08.45 – 09.00 | Introductions
-09.00 – 09.30 | An Overview of Recent Progress in Stateless Model Checking
-09.30 – 10.00 | Multi-agent systems
-10.00 – 10.30 | Java Pathfinder and some of its applications
-10.30 – 11.00 | Break
-11.00 – 11.30 | Concolic Testing of Higher-order Functional Languages
-11.30 – 12.00 | A day at the beach: From Java PathFinder to COASTAL
-12.00 – 12.30 | Searching Fast and Slow: Fuzzing and Symbolic Execution
-12.30 – 14.00 | Lunch
-14.00 – 14.30 | Systematic Generation of Programs with Guaranteed Syntax Errors
-14.30 – 15.00 | An Empirical Comparison of Systematic and Random Grammar-based Fuzzing
-15.00 – 15.30 | Break
-15.30 – 16.00 | SMT Result Caching for Symbolic Execution
-16.00 – 16.30 | Symbolic Automata Learning
-16.30 – 17.30 | Closing
-19.00 - … |        Dinner at Hussar Grill
+| 08.45 – 09.00 | Introductions |
+| --- | --- |
+| 09.00 – 09.30 | An Overview of Recent Progress in Stateless Model Checking |
+| 09.30 – 10.00 | Multi-agent systems |
+| 10.00 – 10.30 | Java Pathfinder and some of its applications |
+| 10.30 – 11.00 | Break |
+| 11.00 – 11.30 | Concolic Testing of Higher-order Functional Languages |
+| 11.30 – 12.00 | A day at the beach: From Java PathFinder to COASTAL |
+| 12.00 – 12.30 | Searching Fast and Slow: Fuzzing and Symbolic Execution |
+| 12.30 – 14.00 | Lunch |
+| 14.00 – 14.30 | Systematic Generation of Programs with Guaranteed Syntax Errors |
+| 14.30 – 15.00 | An Empirical Comparison of Systematic and Random Grammar-based Fuzzing |
+| 15.00 – 15.30 | Break |
+| 15.30 – 16.00 | SMT Result Caching for Symbolic Execution |
+| 16.00 – 16.30 | Symbolic Automata Learning |
+| 16.30 – 17.30 | Closing |
+| 19.00 - … |        Dinner at Hussar Grill |
+
 
 **We welcome students and researchers to present their projects!**
 Talks between 3 and 30 minutes are welcome. No slides are required for short talks.
