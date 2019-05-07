@@ -29,9 +29,6 @@
 | 19.00 - … |        Dinner at Hussar Grill |
 
 
-**We welcome students and researchers to present their projects!**
-Talks between 3 and 30 minutes are welcome. No slides are required for short talks.
-
 ### Speakers and topics
   
 <details>
